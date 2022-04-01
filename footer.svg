@@ -87,8 +87,8 @@
 	      <li>criar appjs como main</li>
 	      <li>configurar a api no app</li>
 	      <li>criar o server na porta 3000 no serve js</li>
-	      <li></li>
-	      <li></li>
+	      <li>atualizar package para rodar o servidor</li>
+	      <li>node ./serverjs</li>
 	      <li></li>
               
              </ul> 
