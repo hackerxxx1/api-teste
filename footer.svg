@@ -82,11 +82,11 @@
 	      <li>npm init</li>     
               <li>instalar jest</li>
               <li>npm install -D jest</li>
-              <li>configurar package json para usar o jest</li>
+              <li>npm i express</li>
 	      <li>scripts jest --watchAll</li>
-	      <li></li>
-	      <li></li>
-	      <li></li>
+	      <li>criar appjs como main</li>
+	      <li>configurar a api no app</li>
+	      <li>criar o server na porta 3000 no serve js</li>
 	      <li></li>
 	      <li></li>
 	      <li></li>
